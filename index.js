@@ -1,5 +1,5 @@
 function sum(a, b) {
-  return a - b;   // bilerek bozduk
+  return a + b;
 }
 
 module.exports = sum;
